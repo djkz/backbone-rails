@@ -1,0 +1,11 @@
+// I gather this file is a starting point for the project.
+@import "bootstrap";
+
+// Include responsive Bootstrap styles
+// @import "bootstrap-responsive";
+
+.container-narrow {
+  margin: 0 auto;
+  max-width: 1000px;
+  min-width: 400px;
+}
